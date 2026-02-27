@@ -1,0 +1,23 @@
+# Core
+python-dotenv
+
+# Keep crewai at version 0.130.0 (do not change)
+crewai==0.130.0
+crewai-tools==0.47.1
+
+# FastAPI
+fastapi==0.110.3
+uvicorn
+python-multipart
+email-validator
+
+# LLM
+openai
+google-generativeai
+
+# PDF reading
+langchain-community
+pypdf
+
+# Search tool
+google-search-results

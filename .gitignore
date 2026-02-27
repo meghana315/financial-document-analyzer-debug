@@ -1,0 +1,18 @@
+# API keys - never push this!
+.env
+
+# Uploaded PDFs (temporary)
+data/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
