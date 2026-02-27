@@ -209,6 +209,16 @@ You upload PDF + ask a question
           ↓
    Combined report returned to you
 ```
+## 📸 Screenshots
+
+
+![Swagger UI](Result-1.png)
+
+
+![Request](Result-2.png)
+
+
+![Response](Result-3.png)
 
 ---
 
