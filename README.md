@@ -117,7 +117,7 @@ INFO: Uvicorn running on http://127.0.0.1:8000
 
 ## 📡 API Documentation
 
-### Base URL
+### Base URL (for API calls only — not a webpage)
 ```
 http://127.0.0.1:8000
 ```
@@ -176,8 +176,8 @@ print(response.json())
 }
 ```
 
-### Interactive Docs (Swagger UI)
-Once the server is running, open your browser and go to:
+### 🌐 Open This in Your Browser
+Once the server is running, open your browser and go to this URL to test the API:
 ```
 http://127.0.0.1:8000/docs
 ```
